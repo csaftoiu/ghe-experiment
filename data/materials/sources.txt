@@ -1,0 +1,45 @@
+Sapph: 
+https://refractiveindex.info/?shelf=main&book=Al2O3&page=Querry-o
+
+CaF2: 
+https://refractiveindex.info/?shelf=main&book=CaF2&page=Li
+https://refractiveindex.info/?shelf=main&book=CaF2&page=Kaiser
+
+Boro:
+http://dx.doi.org/10.1116/1.4997898
+chart copied w/ x/y coords
+
+
+# -------------------
+# PROPER SOURCES
+google worksheet to read graphs: https://docs.google.com/spreadsheets/d/1xGoWq6qUc3doFT96--ZY4fC-yGX-KGuOpSfzSnI2mIc/edit?gid=1234101379#gid=1234101379
+
+Boro:
+- source: https://knightoptical.com/wp-content/uploads/2020/01/Sheet-Glass-Borofloat33-TSG-LEGB.pdf
+- it is a Schott Borofloat 33
+- full trans spectrum of 2mm: 
+  - https://www.pgo-online.com/intl/curves/boro_kurve.html
+  - data/Borofloat_transmission_src.gif
+- refractive indices:
+  - taken from http://dx.doi.org/10.1116/1.4997898 , very good agreement where data available on https://www.pgo-online.com/intl/borofloat.html
+  - data/boro_graph_source.png
+
+
+Sapphire:
+- source: https://knightoptical.com/wp-content/uploads/2020/02/IR-material-Sapphire_C-cut_UV.pdf
+- transmission for 2mm thickness: 
+  - https://www.edmundoptics.com/f/sapphire-windows/12234/
+  - data/sapphire_trans_2mm.webp
+- refractive indices:
+  - https://refractiveindex.info/?shelf=main&book=Al2O3&page=Querry-o
+  - confirmed matches refractive index values given from the source pdf (for crystal, not for thin film +)
+
+CaF2:
+- source: https://knightoptical.com/wp-content/uploads/2020/02/Datasheet-IR-Material-Calcium-Fluoride.pdf
+- 2mm thickness transmission spectrum: 
+  - https://www.impex-hightech.de/en/caf2/
+  - data/caf2_trans_2mm.png
+- refractive indices:
+  - https://refractiveindex.info/?shelf=main&book=CaF2&page=Li
+  - https://refractiveindex.info/?shelf=main&book=CaF2&page=Kaiser
+  - pretty close to source material values

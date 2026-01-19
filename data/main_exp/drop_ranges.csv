@@ -1,0 +1,52 @@
+start,end,columns,reason
+2025-06-20 16:25:00,2025-06-20 17:10:00,all,adjustment period
+2025-06-21 16:25:00,2025-06-21 17:10:00,all,adjustment period
+2025-06-21 18:40:00,2025-06-21 19:01:00,all,adjustment period
+2025-06-22 16:25:00,2025-06-22 17:10:00,all,adjustment period
+2025-06-23 16:25:00,2025-06-23 17:10:00,all,adjustment period
+2025-06-24 16:25:00,2025-06-24 17:10:00,all,adjustment period
+2025-06-24 17:25:00,2025-06-24 18:05:00,all,adjustment period
+2025-06-25 16:25:00,2025-06-25 17:10:00,all,adjustment period
+2025-07-06 16:25:00,2025-07-06 17:10:00,all,adjustment period
+2025-07-07 16:25:00,2025-07-07 17:10:00,all,adjustment period
+2025-07-07 16:20:00,2025-07-07 16:25:00,all,adjustment period alignment
+2025-07-08 16:25:00,2025-07-08 17:10:00,all,adjustment period
+2025-07-09 16:25:00,2025-07-09 17:10:00,all,adjustment period alignment
+2025-07-10 16:25:00,2025-07-10 17:10:00,all,adjustment period alignment
+2025-07-11 16:25:00,2025-07-11 17:10:00,all,adjustment period
+2025-07-12 16:25:00,2025-07-12 17:10:00,all,adjustment period alignment
+2025-06-20 14:00:00,2025-06-20 16:30:00,all,Walls not set up yet
+2025-06-20 18:49:00,2025-06-20 18:56:00,['ir_net'],Moving pyrgeometer
+2025-06-21 09:13:33,2025-06-21 09:16:58,['solar'],readjusted
+2025-06-21 09:18:00,2025-06-21 09:20:00,['thermistorV'],loose lead
+2025-06-21 09:23:00,2025-06-21 12:11:00,['thermistorV'],loose lead
+2025-06-21 12:17:00,2025-06-21 12:31:00,['thermistorV'],Loose lead
+2025-06-21 13:50:44,2025-06-21 13:51:29,['thermistorV'],Loose lead
+2025-06-21 13:58:33,2025-06-21 14:00:03,['thermistorV'],Loose lead
+2025-06-21 16:31:04,2025-06-21 16:32:00,['thermistorV'],Loose lead
+2025-06-21 17:50:35,2025-06-21 17:52:10,['thermistorV'],Loose lead
+2025-06-21 19:02:20,2025-06-21 19:02:50,['thermistorV'],Loose lead
+2025-06-21 19:05:30,2025-06-21 19:06:30,['thermistorV'],Loose lead
+2025-06-22 10:45:50,2025-06-22 10:46:10,['C'],Loose lead
+2025-06-22 19:13:00,2025-06-22 19:16:00,['thermistorV'],Loose lead
+2025-06-23 22:55:00,2025-06-24 08:19:00,all,"below dew point, condensation"
+2025-06-25 00:48:00,2025-06-25 08:15:00,all,"below dew point, condensation"
+2025-07-08 23:50:00,2025-07-09 12:25:00,all,"below dew point, condensation"
+2025-07-10 02:58:00,2025-07-10 08:35:00,all,"below dew point, condensation"
+2025-07-11 01:49:00,2025-07-11 09:21:00,all,"below dew point, condensation"
+2025-07-04 16:16:00,2025-07-04 16:45:00,all,adjustment period
+2025-07-05 17:00:00,2025-07-05 17:35:00,all,adjustment period
+2025-07-04 16:15:00,2025-07-04 17:35:00,all,adjustment period alignment
+2025-07-05 16:15:00,2025-07-05 17:35:00,all,adjustment period alignment
+2025-07-06 16:15:00,2025-07-06 17:35:00,all,adjustment period alignment
+2025-07-07 10:00:00,2025-07-07 14:12:00,"['excitationV', 'thermistorV']",psu stopped
+2025-07-07 19:47:00,2025-07-07 19:49:00,"['excitationV', 'thermistorV']",psu funky
+2025-07-07 19:56:00,2025-07-07 19:58:00,"['excitationV', 'thermistorV']",psu funky
+2025-07-07 22:08:00,2025-07-07 22:17:00,"['excitationV', 'thermistorV']",psu funky
+2025-07-08 15:57:00,2025-07-08 15:59:00,"['excitationV', 'thermistorV']",psu funky
+2025-07-13 13:32:00,2025-07-13 13:57:00,['solar'],other experiment
+2025-07-13 13:57:00,2025-07-13 14:03:00,"['ir_net','thermistorV']",other experiment
+2025-07-15 13:04:00,2025-07-15 13:19:00,['solar'],pyran testing
+2025-07-15 12:53:00,2025-07-15 13:57:00,all,adjustment period
+2025-07-16 13:15:00,2025-07-16 13:57:00,all,adjustment period
+2025-07-17 13:15:00,2025-07-17 13:57:00,all,adjustment period alignment
