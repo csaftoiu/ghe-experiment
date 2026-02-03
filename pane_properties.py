@@ -961,7 +961,7 @@ def genlist(data_dir="data/processed"):
         print(f"    }},")
     print("}")
 
-def transmission(data_dir="data/materials", show_solar=False):
+def transmission(data_dir="data/materials", show_solar=True):
     """
     Plot transmission vs wavelength for all materials.
 
